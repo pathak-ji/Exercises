@@ -1,0 +1,3 @@
+# User have to guess the number in maximum of 9 guesses. User will bw provided an information about whether he/she have to increase or decrese the guess,
+# also with the enumber of guesses left. Game will be over if he uses all his 9 guesses and if in between user guessed the number right then display the number of guesses
+# taken by user to guess the number correctly.
